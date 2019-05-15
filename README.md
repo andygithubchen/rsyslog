@@ -4,7 +4,8 @@ Rsyslog &amp;&amp; Elasticsearch
 yum search rsyslog
 
 
-yum install -y mmnormalize elasticsearch omfile
+yum install -y rsyslog-mmnormalize rsyslog-elasticsearch rsyslog-omfile
+
 
 
 ##### 配置的验证：
